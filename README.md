@@ -1,10 +1,10 @@
 # Machine Learning and NLP Learning Roadmap
 
-Welcome to my journey of mastering Machine Learning and Natural Language Processing (NLP). This roadmap will guide me through the essential concepts and skills needed to achieve my goals.
+Welcome to my journey of mastering Machine Learning and Natural Language Processing (NLP). This roadmap will guide me through the essential concepts and skills needed to achieve my goal of creating a chatbot that can understand and utilize all my information.
 
 ## Vision
 
-I aim to create a bot that can understand and utilize all my information, gradually advancing to more complex projects in the field of machine learning and NLP.
+I aim to create a chatbot that can respond based on the information I provide, gradually advancing to more complex projects in the field of machine learning and NLP.
 
 ## Roadmap
 
@@ -67,7 +67,7 @@ I aim to create a bot that can understand and utilize all my information, gradua
 
 #### Goals:
 - Understand NLP concepts and techniques
-- Build basic NLP models and applications
+- Build NLP models and applications specifically for my chatbot
 
 #### Libraries:
 - **NLTK:** Tokenization, stemming, lemmatization
@@ -101,10 +101,10 @@ I aim to create a bot that can understand and utilize all my information, gradua
 - Contribute to open-source NLP projects
 
 #### Ideas:
-- **Chatbots:** Advanced conversational agents
-- **Recommendation Systems:** Personalized content recommendations
-- **Language Translation:** Machine translation models
-- **Text Summarization:** Extractive and abstractive summarization
+- **Chatbots:** Advanced conversational agents for personal use
+- **Kinyarwanda NLP:** Participate in Kinyarwanda NLP projects
+- **Kinyarwanda Keyboard Dictionary:** Develop a dictionary for Kinyarwanda keyboards
+- **Resume Screening:** Automate resume screening processes
 
 ---
 
@@ -112,9 +112,19 @@ I aim to create a bot that can understand and utilize all my information, gradua
 
 I will continuously update this document to track my progress and add new learnings and projects. Stay tuned!
 
+| Feature                          | Completed |
+|----------------------------------|-----------|
+| Setting up environment (Jupyter) | ✅        |
+| Python Advanced Concepts         |           |
+| Data Analysis and Visualization  |           |
+| Machine Learning Fundamentals    |           |
+| Deep Learning Basics             |           |
+| Natural Language Processing      |           |
+| Building and Training the Bot    |           |
+
 ### Contact
 
-For any queries or collaboration, feel free to reach out to me at [email@example.com](mailto:email@example.com).
+For any queries or collaboration, feel free to reach out to me at [programmerdatch@gmail.com](mailto:programmerdatch@gmail.com).
 
 ---
 
